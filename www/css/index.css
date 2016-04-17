@@ -1,0 +1,32 @@
+
+body {
+    background: #ebebeb;
+    margin:0;
+}
+.barra {
+    position:absolute;
+    background: #ffffff;
+    width:100%;
+    top:0px;
+    left:0px;
+    height:40px;
+}
+.logo {
+    position:absolute;
+    height:30px;
+    top:5px;
+    left:40px;
+}
+
+.buscar {
+	position: absolute;
+	min-width: 80px;
+	width:50%;
+	left:100px;
+	top:7px;
+}
+.busca {
+	position: absolute;
+	left:90%;
+	top:12px;
+	}
